@@ -1,0 +1,10 @@
+{
+  "artifact_type": "autoresearch-direct-eval-stub",
+  "created_at_utc": "20260606-161136",
+  "dummy_submission_kind": "testnet_signed_e2e_smoke",
+  "heldout_cross_entropy_nats": 5.771830455430048,
+  "heldout_ppl": 321.125,
+  "note": "MEK-21/MEK-24 live testnet miner-validator-Pool dummy smoke artifact; no production compressed model.",
+  "parameter_count": 4096,
+  "token_count": 128
+}
